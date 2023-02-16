@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "oMEFkw4jpWlkeLb8JHga5kwwGOB1RZI04go0ZyDH5KRPh4bnHviF4rQsgKK/S935qkcWbpRKI6dhasANC9mhEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sandh\\OneDrive\\Documents\\Emveep\\Talent Hunter\\Sliced\\Background-Service\\Background-Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sandh\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\sandh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\sandh\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\sandh\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\6.0.0\\microsoft.extensions.hosting.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\sandh\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\sandh\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\sandh\\.nuget\\packages\\ncrontab\\3.3.1\\ncrontab.3.3.1.nupkg.sha512",
+    "C:\\Users\\sandh\\.nuget\\packages\\ncrontab.scheduler\\1.1.17\\ncrontab.scheduler.1.1.17.nupkg.sha512",
+    "C:\\Users\\sandh\\.nuget\\packages\\ncrontab.scheduler.aspnetcore\\1.1.17\\ncrontab.scheduler.aspnetcore.1.1.17.nupkg.sha512",
+    "C:\\Users\\sandh\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
